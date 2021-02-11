@@ -1,7 +1,11 @@
+import { Header, Form, News } from "../components/index";
+
 const App = () => {
   return (
-    <div className="App">
-      <p>Hola mundo</p>
+    <div>
+      <Header />
+      <Form />
+      <News />
     </div>
   );
 };
