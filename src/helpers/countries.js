@@ -1,218 +1,218 @@
 export const countries = [
   {
-    Country: "United Arab Emirates",
-    ISO2: "AE"
+    name: "United Arab Emirates",
+    value: "AE"
   },
   {
-    Country: "Argentina",
-    ISO2: "AR"
+    name: "Argentina",
+    value: "AR"
   },
   {
-    Country: "Austria",
-    ISO2: "AT"
+    name: "Austria",
+    value: "AT"
   },
   {
-    Country: "Australia",
-    ISO2: "AU"
+    name: "Australia",
+    value: "AU"
   },
   {
-    Country: "Belgium",
-    ISO2: "BE"
+    name: "Belgium",
+    value: "BE"
   },
   {
-    Country: "Bulgaria",
-    ISO2: "BG"
+    name: "Bulgaria",
+    value: "BG"
   },
   {
-    Country: "Brazil",
-    ISO2: "BR"
+    name: "Brazil",
+    value: "BR"
   },
   {
-    Country: "Canada",
-    ISO2: "CA"
+    name: "Canada",
+    value: "CA"
   },
   {
-    Country: "Switzerland",
-    ISO2: "CH"
+    name: "Switzerland",
+    value: "CH"
   },
   {
-    Country: "China",
-    ISO2: "CN"
+    name: "China",
+    value: "CN"
   },
   {
-    Country: "Colombia",
-    ISO2: "CO"
+    name: "Colombia",
+    value: "CO"
   },
   {
-    Country: "Cuba",
-    ISO2: "CU"
+    name: "Cuba",
+    value: "CU"
   },
   {
-    Country: "Czech Republic",
-    ISO2: "CZ"
+    name: "Czech Republic",
+    value: "CZ"
   },
   {
-    Country: "Germany",
-    ISO2: "DE"
+    name: "Germany",
+    value: "DE"
   },
   {
-    Country: "Egypt",
-    ISO2: "EG"
+    name: "Egypt",
+    value: "EG"
   },
   {
-    Country: "France",
-    ISO2: "FR"
+    name: "France",
+    value: "FR"
   },
   {
-    Country: "United Kingdom",
-    ISO2: "GB"
+    name: "United Kingdom",
+    value: "GB"
   },
   {
-    Country: "Greece",
-    ISO2: "GR"
+    name: "Greece",
+    value: "GR"
   },
   {
-    Country: "Hong Kong, SAR China",
-    ISO2: "HK"
+    name: "Hong Kong, SAR China",
+    value: "HK"
   },
   {
-    Country: "Hungary",
-    ISO2: "HU"
+    name: "Hungary",
+    value: "HU"
   },
   {
-    Country: "Indonesia",
-    ISO2: "ID"
+    name: "Indonesia",
+    value: "ID"
   },
   {
-    Country: "Ireland",
-    ISO2: "IE"
+    name: "Ireland",
+    value: "IE"
   },
   {
-    Country: "Israel",
-    ISO2: "IL"
+    name: "Israel",
+    value: "IL"
   },
   {
-    Country: "India",
-    ISO2: "IN"
+    name: "India",
+    value: "IN"
   },
   {
-    Country: "Italy",
-    ISO2: "IT"
+    name: "Italy",
+    value: "IT"
   },
   {
-    Country: "Japan",
-    ISO2: "JP"
+    name: "Japan",
+    value: "JP"
   },
   {
-    Country: "Korea (South)",
-    ISO2: "KR"
+    name: "Korea (South)",
+    value: "KR"
   },
   {
-    Country: "Lithuania",
-    ISO2: "LT"
+    name: "Lithuania",
+    value: "LT"
   },
   {
-    Country: "Latvia",
-    ISO2: "LV"
+    name: "Latvia",
+    value: "LV"
   },
   {
-    Country: "Morocco",
-    ISO2: "MA"
+    name: "Morocco",
+    value: "MA"
   },
   {
-    Country: "Mexico",
-    ISO2: "MX"
+    name: "Mexico",
+    value: "MX"
   },
   {
-    Country: "Malaysia",
-    ISO2: "MY"
+    name: "Malaysia",
+    value: "MY"
   },
   {
-    Country: "Nigeria",
-    ISO2: "NG"
+    name: "Nigeria",
+    value: "NG"
   },
   {
-    Country: "Netherlands",
-    ISO2: "NL"
+    name: "Netherlands",
+    value: "NL"
   },
   {
-    Country: "Norway",
-    ISO2: "NO"
+    name: "Norway",
+    value: "NO"
   },
   {
-    Country: "New Zealand",
-    ISO2: "NZ"
+    name: "New Zealand",
+    value: "NZ"
   },
   {
-    Country: "Philippines",
-    ISO2: "PH"
+    name: "Philippines",
+    value: "PH"
   },
   {
-    Country: "Poland",
-    ISO2: "PL"
+    name: "Poland",
+    value: "PL"
   },
   {
-    Country: "Portugal",
-    ISO2: "PT"
+    name: "Portugal",
+    value: "PT"
   },
   {
-    Country: "Romania",
-    ISO2: "RO"
+    name: "Romania",
+    value: "RO"
   },
   {
-    Country: "Serbia",
-    ISO2: "RS"
+    name: "Serbia",
+    value: "RS"
   },
   {
-    Country: "Russian Federation",
-    ISO2: "RU"
+    name: "Russian Federation",
+    value: "RU"
   },
   {
-    Country: "Saudi Arabia",
-    ISO2: "SA"
+    name: "Saudi Arabia",
+    value: "SA"
   },
   {
-    Country: "Sweden",
-    ISO2: "SE"
+    name: "Sweden",
+    value: "SE"
   },
   {
-    Country: "Singapore",
-    ISO2: "SG"
+    name: "Singapore",
+    value: "SG"
   },
   {
-    Country: "Slovenia",
-    ISO2: "SI"
+    name: "Slovenia",
+    value: "SI"
   },
   {
-    Country: "Slovakia",
-    ISO2: "SK"
+    name: "Slovakia",
+    value: "SK"
   },
   {
-    Country: "Thailand",
-    ISO2: "TH"
+    name: "Thailand",
+    value: "TH"
   },
   {
-    Country: "Turkey",
-    ISO2: "TR"
+    name: "Turkey",
+    value: "TR"
   },
   {
-    Country: "Taiwan, Republic of China",
-    ISO2: "TW"
+    name: "Taiwan, Republic of China",
+    value: "TW"
   },
   {
-    Country: "Ukraine",
-    ISO2: "UA"
+    name: "Ukraine",
+    value: "UA"
   },
   {
-    Country: "United States of America",
-    ISO2: "US"
+    name: "United States of America",
+    value: "US"
   },
   {
-    Country: "Venezuela (Bolivarian Republic)",
-    ISO2: "VE"
+    name: "Venezuela (Bolivarian Republic)",
+    value: "VE"
   },
   {
-    Country: "South Africa",
-    ISO2: "ZA"
+    name: "South Africa",
+    value: "ZA"
   }
 ];

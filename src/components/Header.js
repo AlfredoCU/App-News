@@ -1,12 +1,13 @@
-import { memo } from "react";
+import { string } from "prop-types";
 
-const Header = () => (
-  <header className="bg-green-500 m-auto p-5">
-    <h1 className="text-center text-white text-2xl font-medium">
-      BUSCADOR DE NOTICIAS
-    </h1>
+const Header = ({ title }) => (
+  <header className="bg-blue-600 m-auto p-5">
+    <h1 className="text-center text-white text-3xl font-medium">{title}</h1>
   </header>
 );
 
-const HeaderMemo = memo(Header);
-export { HeaderMemo as Header };
+Header.propTypes = {
+  title: string.isRequired
+};
+
+export default Header;

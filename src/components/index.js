@@ -1,3 +1,3 @@
-export * from "./Form";
-export * from "./News";
-export * from "./Header";
+export { default as Header } from "./Header";
+export { default as Form } from "./Form";
+export { default as News } from "./News";

@@ -1,30 +1,30 @@
 export const categories = [
   {
-    Value: "business",
-    Label: "Negocios"
+    value: "business",
+    name: "Negocios"
   },
   {
-    Value: "entertainment",
-    Label: "Entretenimiento"
+    value: "entertainment",
+    name: "Entretenimiento"
   },
   {
-    Value: "general",
-    Label: "General"
+    value: "general",
+    name: "General"
   },
   {
-    Value: "health",
-    Label: "Salud"
+    value: "health",
+    name: "Salud"
   },
   {
-    Value: "science",
-    Label: "Ciencia"
+    value: "science",
+    name: "Ciencia"
   },
   {
-    Value: "sports",
-    Label: "Deportes"
+    value: "sports",
+    name: "Deportes"
   },
   {
-    Value: "technology",
-    Label: "Tecnología"
+    value: "technology",
+    name: "Tecnología"
   }
 ];
